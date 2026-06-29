@@ -86,6 +86,7 @@ Free, no-cost utilities to check and improve AI search readiness. Listed alphabe
 - [Brand Radar](https://ahrefs.com/brand-radar) - Ahrefs view of combined traditional and AI search visibility.
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how key AI models answer questions about your brand.
 - [llms.txt Generator](https://llmpulse.ai/llms-txt-generator) - Generate an `llms.txt` file to guide AI crawlers.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO and AEO audits, with Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP and Meta Ads MCP servers for live data.
 - [Otterly Free Tools](https://otterly.ai/) - Free checks for AI search presence.
 - [robots.txt Checker](https://llmpulse.ai/robots-txt-checker) - Check whether your `robots.txt` allows or blocks AI crawlers.
 
