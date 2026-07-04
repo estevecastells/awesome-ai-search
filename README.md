@@ -82,6 +82,7 @@ Free, no-cost utilities to check and improve AI search readiness. Listed alphabe
 - [AI Search Grader](https://www.hubspot.com/ai-search-grader) - HubSpot free audit of brand presence in AI search.
 - [AI Visibility Report](https://llmpulse.ai/ai-visibility-report) - Free snapshot of how AI assistants see and describe your brand.
 - [Am I on AI?](https://amionai.com/) - Quick checker for how often ChatGPT recommends your business.
+- [AnswerLens](https://app.sfdj.net/) - Free public-evidence scan for B2B SaaS sites, checking crawlable URLs, `llms.txt`, pricing, comparison and proof pages.
 - [Brand Mention Checker](https://llmpulse.ai/brand-mention-checker) - Check whether and how AI models mention your brand.
 - [Brand Radar](https://ahrefs.com/brand-radar) - Ahrefs view of combined traditional and AI search visibility.
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how key AI models answer questions about your brand.
