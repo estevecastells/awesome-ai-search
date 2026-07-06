@@ -109,6 +109,7 @@ Tools for planning and writing content that AI engines can understand and cite. 
 
 Make your site legible and trustworthy to AI crawlers and retrieval pipelines. Listed alphabetically.
 
+- [Citeable](https://citeable.eu) - Generates an llms.txt, llms-full.txt and Q&A schema.org markup from a site's content to make it readable and citable by AI answer engines.
 - [Google: AI features and your site](https://developers.google.com/search/docs/appearance/ai-features) - Official guidance on AI Overviews and how content is used.
 - [llms.txt](https://llmstxt.org/) - Proposed standard for a `/llms.txt` file that guides LLMs to your most important content.
 - [Rich Results Test](https://search.google.com/test/rich-results) - Test which structured data Google can read on a page.
