@@ -129,15 +129,21 @@ Reference material for the bots that fetch content for AI training and AI search
 
 The engines you are trying to show up in. Listed alphabetically.
 
+- [Baidu AI Search](https://www.baidu.com/) - Chinese search engine with AI-generated answers.
 - [Bing](https://www.bing.com/) - Microsoft search with integrated AI answers.
 - [ChatGPT](https://chatgpt.com/) - OpenAI assistant with integrated web search.
 - [Claude](https://claude.ai/) - Anthropic assistant with web search.
 - [Copilot](https://copilot.microsoft.com/) - Microsoft assistant with web grounding.
+- [DeepSeek](https://chat.deepseek.com/) - Chinese AI assistant with web search.
+- [Doubao](https://www.doubao.com/) - ByteDance's Chinese AI assistant.
 - [Gemini](https://gemini.google.com/) - Google's assistant.
 - [Google AI Overviews and AI Mode](https://www.google.com/) - AI answers inside Google Search.
 - [Grok](https://grok.com/) - xAI assistant.
+- [Kimi](https://www.kimi.com/) - Moonshot AI's Chinese assistant with long-context web search.
 - [Perplexity](https://www.perplexity.ai/) - Conversational answer engine with citations.
 - [Phind](https://www.phind.com/) - AI answer engine focused on developers.
+- [Qwen](https://qwen.ai/) - Alibaba's Chinese AI assistant.
+- [Tencent Yuanbao](https://yuanbao.tencent.com/) - Tencent's Chinese AI assistant.
 - [You.com](https://you.com/) - AI search and assistant.
 
 ## AI Traffic and Analytics
@@ -171,6 +177,7 @@ Programmatic access and Model Context Protocol servers for AI search data. Liste
 
 ## Guides and Tutorials
 
+- [China AI platforms GEO guide](https://visibilityatlas.com/guides/china-ai-platforms/) - How brands become visible in Baidu, DeepSeek, Doubao, Qwen and Kimi answers.
 - [Google: AI features guidance](https://developers.google.com/search/docs/appearance/ai-features) - How Google uses content in AI features.
 - [llms.txt explainer](https://llmstxt.org/) - What `llms.txt` is and how to author one.
 - [Perplexity Publishers](https://www.perplexity.ai/hub) - How Perplexity sources and cites content.
