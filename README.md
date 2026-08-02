@@ -88,6 +88,7 @@ Free, no-cost utilities to check and improve AI search readiness. Listed alphabe
 - [llms.txt Generator](https://llmpulse.ai/llms-txt-generator) - Generate an `llms.txt` file to guide AI crawlers.
 - [Otterly Free Tools](https://otterly.ai/) - Free checks for AI search presence.
 - [robots.txt Checker](https://llmpulse.ai/robots-txt-checker) - Check whether your `robots.txt` allows or blocks AI crawlers.
+- [What Does My Website Say?](https://mydentify.com/tools/what-does-my-website-do-checker) - Extracts the product name, title, description, headings and structured data a homepage exposes for a first-pass clarity check.
 
 ## Content Optimization and GEO Writing
 
