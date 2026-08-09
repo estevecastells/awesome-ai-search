@@ -165,6 +165,7 @@ Programmatic access and Model Context Protocol servers for AI search data. Liste
 
 ## Research and Papers
 
+- [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Original-data reports on AI-visibility tools, including an engine-coverage census across 66 vendors, computed from CitedIndex's own quality-gated index.
 - [Evaluating Verifiability in Generative Search Engines](https://arxiv.org/abs/2304.09848) - Study of citation accuracy in generative search.
 - [GEO: Generative Engine Optimization](https://arxiv.org/abs/2311.09735) - The KDD 2024 paper that introduced GEO and the GEO-bench benchmark.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Original studies on how brands appear across AI engines.
@@ -205,3 +206,4 @@ Found something missing or out of date? Contributions are welcome. Please read [
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE).
+
