@@ -51,6 +51,7 @@ Platforms that track how often and how favorably AI engines mention and cite you
 - [Brandlight](https://brandlight.ai/) - AI visibility optimization with influence-source scoring and response analysis.
 - [BrightEdge](https://www.brightedge.com/) - Enterprise SEO platform with AI search and AI Overviews tracking.
 - [Conductor](https://www.conductor.com/) - Enterprise organic marketing platform with AI search visibility features.
+- [Corank](https://corank.ai/) - AI visibility platform for auditing brand mentions and citations across ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization focused on content discoverability.
 - [Evertune](https://www.evertune.ai/) - "AI Brand Index" benchmarking which publishers shape model output, with distribution briefs.
 - [Gauge](https://www.withgauge.com/) - AI search analytics monitoring hundreds of prompts per client, with analytics integration for AI traffic.
