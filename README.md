@@ -67,6 +67,7 @@ Platforms that track how often and how favorably AI engines mention and cite you
 - [Quno](https://www.quno.ai/) - Brand-visibility scorecards, prompt-library testing and AI-SEO writing in one dashboard.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO rank tracking, source monitoring and competitor comparison.
 - [Scrunch AI](https://scrunch.ai/) - Agent experience platform for monitoring and optimizing how AI engines read your site.
+- [Scope](https://scope.online/) - AI visibility platform that monitors brand recommendations across ChatGPT, Claude, Gemini, Perplexity, Google AI and Copilot, with an MCP server so agents can run scans directly.
 - [SE Ranking AI Search Toolkit](https://seranking.com/) - AI Overviews and AI Mode tracking inside a broader SEO platform.
 - [Semrush AI Visibility Toolkit](https://www.semrush.com/ai-visibility/) - AI search visibility tracking across ChatGPT, Claude, Perplexity and Google AI Mode with competitor benchmarking.
 - [seoClarity](https://www.seoclarity.net/) - Enterprise SEO platform with a GEO analytics module.
@@ -155,6 +156,7 @@ Programmatic access and Model Context Protocol servers for AI search data. Liste
 - [LLM Pulse API and MCP](https://llmpulse.ai) - REST API and MCP server for visibility, mentions, citations, share of voice and AI traffic.
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Open standard for connecting AI assistants to tools and data.
 - [Profound API](https://www.tryprofound.com/) - Programmatic access to answer-engine insights.
+- [Scope MCP](https://scope.online/mcp) - Hosted MCP server for visibility scores, citations, competitors and scans across ChatGPT, Claude, Gemini and Perplexity.
 
 ## Datasets and Benchmarks
 
