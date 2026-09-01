@@ -63,6 +63,7 @@ Platforms that track how often and how favorably AI engines mention and cite you
 - [Otterly.AI](https://otterly.ai/) - AI search monitoring for brand mentions and link citations across Google AI Overviews, ChatGPT and Perplexity.
 - [Passionfruit](https://www.getpassionfruit.com/) - Visibility, share of voice, sentiment and revenue attribution tied to AI answer exposure.
 - [Peec AI](https://peec.ai/) - Marketing-team console benchmarking visibility across ChatGPT, Claude, Gemini and Perplexity by country.
+  - [peekr](https://trypeekr.com/) - Tracks whether AI answers name your brand across ChatGPT and Gemini, keeping every raw response with three samples per prompt.
 - [Profound](https://www.tryprofound.com/) - Enterprise answer-engine insights with share of voice, sentiment, citation analysis and ChatGPT Shopping tracking.
 - [Quno](https://www.quno.ai/) - Brand-visibility scorecards, prompt-library testing and AI-SEO writing in one dashboard.
 - [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO rank tracking, source monitoring and competitor comparison.
