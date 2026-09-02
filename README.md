@@ -22,6 +22,7 @@ Contributions are welcome. Read the [contribution guidelines](CONTRIBUTING.md) b
 - [AI Search Engines and Assistants](#ai-search-engines-and-assistants)
 - [AI Traffic and Analytics](#ai-traffic-and-analytics)
 - [APIs and MCP Servers](#apis-and-mcp-servers)
+- [API and MCP Benchmark](#api-and-mcp-benchmark)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Research and Evidence](#research-and-evidence)
 - [Newsletters and Blogs](#newsletters-and-blogs)
@@ -163,9 +164,19 @@ Measure visits and conversions referred by AI assistants. First-party citation r
 
 Documented programmatic access to AI-search visibility data. Listed alphabetically.
 
+- [Canonry API and MCP](https://github.com/Canonry/canonry) - Open-source, self-hosted AEO monitoring and execution with a public OpenAPI surface and progressive MCP catalog.
+- [Keyword.com Developer Platform](https://keyword.com/docs/) - Two REST APIs and an OAuth MCP spanning traditional rank tracking and AI visibility.
 - [LLM Pulse API](https://llmpulse.ai/api-docs) - REST API for projects, prompts, competitors, visibility metrics and citations.
 - [LLM Pulse MCP](https://llmpulse.ai/features/mcp) - MCP access to visibility, citation and AI-traffic data.
-- [Profound API](https://docs.tryprofound.com/introduction) - Programmatic access to answer-engine insights.
+- [Peec AI API and MCP](https://docs.peec.ai/) - Public references for reports, raw answers, citations, fan-out queries, shopping, agent traffic and configuration.
+- [Profound API](https://docs.tryprofound.com/rest-api/introduction) - Programmatic access to answer-engine insights, raw prompt data and agent analytics.
+- [Profound MCP](https://docs.tryprofound.com/mcp/overview) - Hosted MCP for analytics, prompts, agents, projects, documents and knowledge bases.
+- [Rank Prompt API and MCP](https://rankprompt.com/docs/v1/) - Self-serve API and hosted MCP for scans, reports, citations, audits and webhooks.
+- [Scrunch Developer Platform](https://developers.scrunch.com/) - REST API and MCP for visibility metrics, raw responses, configuration, signals and AI-agent traffic.
+
+## API and MCP Benchmark
+
+The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares public developer surfaces, MCP tool counts, capability breadth, access and documentation quality. It includes separate API and hosted MCP leaderboards, a raw tool-count table, category winners, scoring rules and conflict disclosure.
 
 ## Datasets and Benchmarks
 
