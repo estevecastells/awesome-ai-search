@@ -166,8 +166,8 @@ Documented programmatic access to AI-search visibility data. Listed alphabetical
 
 - [Canonry API and MCP](https://github.com/Canonry/canonry) - Open-source, self-hosted AEO monitoring and execution with a public OpenAPI surface and progressive MCP catalog.
 - [Keyword.com Developer Platform](https://keyword.com/docs/) - Two REST APIs and an OAuth MCP spanning traditional rank tracking and AI visibility.
-- [LLM Pulse API](https://llmpulse.ai/api-docs) - REST API for projects, prompts, competitors, visibility metrics and citations.
-- [LLM Pulse MCP](https://llmpulse.ai/features/mcp) - MCP access to visibility, citation and AI-traffic data.
+- [LLM Pulse API](https://llmpulse.ai/api-docs) - A 94-operation REST API for visibility metrics, raw answers, citations, traffic, Search Console, reputation, studies, shopping, ads, projects and automation.
+- [LLM Pulse MCP](https://llmpulse.ai/api-docs/integrations) - An 88-tool registered MCP surface with OAuth, read/write scopes and per-plan tool filtering.
 - [Peec AI API and MCP](https://docs.peec.ai/) - Public references for reports, raw answers, citations, fan-out queries, shopping, agent traffic and configuration.
 - [Profound API](https://docs.tryprofound.com/rest-api/introduction) - Programmatic access to answer-engine insights, raw prompt data and agent analytics.
 - [Profound MCP](https://docs.tryprofound.com/mcp/overview) - Hosted MCP for analytics, prompts, agents, projects, documents and knowledge bases.

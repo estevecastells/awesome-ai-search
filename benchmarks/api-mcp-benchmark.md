@@ -1,8 +1,8 @@
 # AI Search API and MCP Benchmark
 
-**Snapshot:** September 2, 2026
+**Snapshot:** September 3, 2026
 
-**Edition:** 1.0
+**Edition:** 1.1
 
 **Scope:** Programmatic access to AI-search visibility, citation, response and referral data
 
@@ -14,9 +14,10 @@ It does **not** test the accuracy of the underlying visibility data, sentiment l
 
 ## Quick Results
 
-- **Best documented hosted MCP:** [Peec AI](https://docs.peec.ai/mcp/tools), with 76 fully enumerated tools and a detailed field-level reference.
+- **Highest programmatic-readiness score:** [LLM Pulse](https://llmpulse.ai/api-docs/integrations), with 88 registered MCP tools and 94 HTTP operations across 84 OpenAPI paths.
+- **Best field-level MCP reference:** [Peec AI](https://docs.peec.ai/mcp/tools), with 76 fully enumerated tools and detailed parameter and response documentation.
 - **Best open and self-hosted integration layer:** [Canonry](https://github.com/Canonry/canonry), with a progressively loaded 206-tool catalog, a public API and local data ownership.
-- **Best API surface in this snapshot:** [Peec AI](https://docs.peec.ai/api/introduction), narrowly ahead of [Scrunch](https://developers.scrunch.com/) after access restrictions are included.
+- **Best API surface in this snapshot:** [LLM Pulse](https://llmpulse.ai/api-docs), followed by [Peec AI](https://docs.peec.ai/api/introduction) and [Scrunch](https://developers.scrunch.com/).
 - **Best self-serve API and scan workflow:** [Rank Prompt](https://rankprompt.com/docs/v1/).
 - **Best hybrid traditional SEO and AI-search MCP:** [Keyword.com](https://keyword.com/docs/mcp/), although only 6 of its 67 tools are AI-visibility-specific.
 - **Deepest enterprise workflow MCP:** [Profound](https://docs.tryprofound.com/mcp/overview), spanning analytics, prompts, agents, projects, documents and knowledge bases.
@@ -33,18 +34,20 @@ Raw operation counts are descriptive, not scoring inputs. A broad API cannot imp
 
 | Rank | Product | Score | Publicly evidenced API surface | Access | Main limitation |
 |---:|---|---:|---|---|---|
-| 1 | [Peec AI](https://docs.peec.ai/api/introduction) | **94** | [82 HTTP operations](https://api.peec.ai/customer/v1/openapi/json) across 67 OpenAPI paths; aggregate reports, raw chats, citations, fan-out, shopping and agent traffic | API is Enterprise; MCP is on paid plans | API remains beta |
-| 2 | [Scrunch](https://developers.scrunch.com/) | **92** | [44 operations](https://api.scrunchai.com/v1/openapi.json) across 31 OpenAPI paths; aggregate and raw responses, traffic, configuration, audits, signals and webhooks | Enterprise/custom | Strong surface, but a high access gate |
-| 3 | [Rank Prompt](https://rankprompt.com/docs/v1/) | **90** | Brands, facts, async reports, raw responses, prompts, citations, competitors, audits, GA4/GSC, tasks and webhooks | API from Starter; separate API plans available | No independently captured operation total in this edition |
-| 4 | [DataForSEO](https://docs.dataforseo.com/v3/ai_optimization-overview/) | **82** | Usage-priced LLM responses, ChatGPT UI scraping, mentions, historical metrics and top pages/domains | Public pay as you go | Builder-oriented; SOV and sentiment often need to be derived |
-| 5 | [Keyword.com](https://keyword.com/docs/ai-visibility-api/) | **80** | 6 AI-visibility reads plus a separate SERP API; domains, terms, dashboard metrics, sentiment and citations | Included across self-serve plans and trial | Aggregate API; no raw answers or scan execution |
-| 6 | [BeVisible](https://bevisible.app/docs/api) | **77** | 22 documented operations for visibility, crawler traffic, prompts, raw responses, citations, GSC and action briefs | API and MCP on Growth | Smaller, still-evolving surface |
-| 7 | [Meltwater GenAI Lens](https://developer.meltwater.com/guides/ai-visibility/overview/) | **64** | Prompt/folder retrieval and analysis with visibility, sentiment and SOV metrics | Contract entitlement | Narrow interface; no raw-answer or scan workflow documented |
+| 1 | [LLM Pulse](https://llmpulse.ai/api-docs) | **98** | [94 HTTP operations](https://api.llmpulse.ai/openapi.json) across 84 OpenAPI paths; aggregate and raw responses, citations, fan-out, shopping, ads, reputation, studies, Search Console, traffic, projects and webhooks | REST API on Scale+; OAuth MCP on every plan/trial | REST access starts on a higher tier |
+| 2 | [Peec AI](https://docs.peec.ai/api/introduction) | **94** | [82 HTTP operations](https://api.peec.ai/customer/v1/openapi/json) across 67 OpenAPI paths; aggregate reports, raw chats, citations, fan-out, shopping and agent traffic | API is Enterprise; MCP is on paid plans | API remains beta |
+| 3 | [Scrunch](https://developers.scrunch.com/) | **92** | [44 operations](https://api.scrunchai.com/v1/openapi.json) across 31 OpenAPI paths; aggregate and raw responses, traffic, configuration, audits, signals and webhooks | Enterprise/custom | Strong surface, but a high access gate |
+| 4 | [Rank Prompt](https://rankprompt.com/docs/v1/) | **90** | Brands, facts, async reports, raw responses, prompts, citations, competitors, audits, GA4/GSC, tasks and webhooks | API from Starter; separate API plans available | No independently captured operation total in this edition |
+| 5 | [DataForSEO](https://docs.dataforseo.com/v3/ai_optimization-overview/) | **82** | Usage-priced LLM responses, ChatGPT UI scraping, mentions, historical metrics and top pages/domains | Public pay as you go | Builder-oriented; SOV and sentiment often need to be derived |
+| 6 | [Keyword.com](https://keyword.com/docs/ai-visibility-api/) | **80** | 6 AI-visibility reads plus a separate SERP API; domains, terms, dashboard metrics, sentiment and citations | Included across self-serve plans and trial | Aggregate API; no raw answers or scan execution |
+| 7 | [BeVisible](https://bevisible.app/docs/api) | **77** | 22 documented operations for visibility, crawler traffic, prompts, raw responses, citations, GSC and action briefs | API and MCP on Growth | Smaller, still-evolving surface |
+| 8 | [Meltwater GenAI Lens](https://developer.meltwater.com/guides/ai-visibility/overview/) | **64** | Prompt/folder retrieval and analysis with visibility, sentiment and SOV metrics | Contract entitlement | Narrow interface; no raw-answer or scan workflow documented |
 
 ### API Score Breakdown
 
 | Product | Docs /20 | Data /20 | Coverage /15 | Actions /15 | MCP /10 | Access /10 | Operations /10 | Total |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
+| LLM Pulse | 20 | 20 | 15 | 15 | 10 | 8 | 10 | **98** |
 | Peec AI | 20 | 20 | 15 | 13 | 10 | 7 | 9 | **94** |
 | Scrunch | 20 | 20 | 15 | 15 | 9 | 4 | 9 | **92** |
 | Rank Prompt | 17 | 18 | 13 | 15 | 9 | 9 | 9 | **90** |
@@ -61,8 +64,8 @@ The raw number of tools does not add points. Tool counts are easy to inflate wit
 
 | Rank | Product | Score | Tools | Read/write | Why it ranks here |
 |---:|---|---:|---:|---|---|
-| 1 | [Peec AI](https://docs.peec.ai/mcp/tools) | **95** | **76** | 33 read / 43 write | Broadest fully enumerated catalog, eight engine surfaces, field-level schemas, raw answers, shopping and agent traffic |
-| 2 | [LLM Pulse](https://llmpulse.ai/features/mcp) | **93** | **48** | 40 read / 8 write | Strong GEO-native balance across metrics, raw evidence, AI traffic, recommendations and scoped actions |
+| 1 | [LLM Pulse](https://llmpulse.ai/api-docs/integrations) | **97** | **88 registered** | 63 read-oriented / 25 state-changing or external actions | Broadest normalized GEO workflow coverage, live-rendered registry, public server card, scoped OAuth, raw evidence, Search Console, traffic, shopping, ads, reputation, studies and webhooks |
+| 2 | [Peec AI](https://docs.peec.ai/mcp/tools) | **95** | **76** | 33 read / 43 write | Broad fully enumerated catalog, eight engine surfaces, field-level schemas, raw answers, shopping and agent traffic |
 | 3 | [Scrunch](https://developers.scrunch.com/mcp/tools) | **92** | **45** | Mixed | Deep reporting and response access plus configuration, statistically tested signals and agent-traffic import/export |
 | 4 | [Profound](https://docs.tryprofound.com/mcp/overview) | **90** | **56** | 37 read / 19 state-changing | Deep enterprise surface spanning visibility, citations, sentiment, facts, shopping, bots, referrals, agents and projects |
 | 5 | [OtterlyAI](https://docs.otterly.ai/mcp-server) | **86** | **32** | 24 read / 8 permission-gated write | Compact, unusually transparent catalog with OAuth and dynamic write registration |
@@ -75,8 +78,8 @@ The raw number of tools does not add points. Tool counts are easy to inflate wit
 
 | Product | Capabilities /40 | Interface /25 | Openness /20 | Trust /15 | Total |
 |---|---:|---:|---:|---:|---:|
+| LLM Pulse | 40 | 25 | 18 | 14 | **97** |
 | Peec AI | 38 | 25 | 18 | 14 | **95** |
-| LLM Pulse | 40 | 24 | 17 | 12 | **93** |
 | Scrunch | 38 | 24 | 16 | 14 | **92** |
 | Profound | 40 | 24 | 12 | 14 | **90** |
 | OtterlyAI | 35 | 24 | 17 | 10 | **86** |
@@ -92,11 +95,11 @@ This table answers the simple “how many tools?” question. It should not be r
 | Rank | Product | Published or enumerated tools | Verification note |
 |---:|---|---:|---|
 | 1 | [Canonry](https://github.com/Canonry/canonry/blob/main/docs/mcp.md) | **206** | Public-source full catalog: 204 API tools plus two discovery tools; a small core loads first |
-| 2 | [Peec AI](https://docs.peec.ai/mcp/tools) | **76** | Exact public catalog |
-| 3 | [Keyword.com](https://keyword.com/docs/mcp/) | **67** | Exact public catalog; six AI-visibility-specific tools |
-| 4 | [Cognizo](https://www.cognizo.ai/platform/mcp) | **62 claimed** | Tool names and schemas are not public; excluded from the scored leaderboard |
-| 5 | [Profound](https://docs.tryprofound.com/mcp/overview) | **56** | Unique tools deduplicated from the current official reference |
-| 6 | [LLM Pulse](https://llmpulse.ai/features/mcp) | **48** | Exact count of currently named tools; product copy rounds this to “more than 45” |
+| 2 | [LLM Pulse](https://llmpulse.ai/api-docs/integrations) | **88 registered** | Live-rendered from the server registry; the authenticated list is filtered by plan and permission |
+| 3 | [Peec AI](https://docs.peec.ai/mcp/tools) | **76** | Exact public catalog |
+| 4 | [Keyword.com](https://keyword.com/docs/mcp/) | **67** | Exact public catalog; six AI-visibility-specific tools |
+| 5 | [Cognizo](https://www.cognizo.ai/platform/mcp) | **62 claimed** | Tool names and schemas are not public; excluded from the scored leaderboard |
+| 6 | [Profound](https://docs.tryprofound.com/mcp/overview) | **56** | Unique tools deduplicated from the current official reference |
 | 7 | [Scrunch](https://developers.scrunch.com/mcp/tools) | **45** | Exact public catalog |
 | 8 | [OtterlyAI](https://docs.otterly.ai/mcp-server) | **32 possible** | Eight write tools appear only with write permission |
 | 9 | [Scope](https://scope.online/agents) | **27 current** | Current enumeration; stale public copy also shows lower totals |
@@ -113,7 +116,7 @@ This table answers the simple “how many tools?” question. It should not be r
 | Scrunch | Yes | Yes | Yes | Yes | Yes | Yes | Both | Prompts, brands, competitors, personas and traffic ingest |
 | Rank Prompt | Yes | Yes | Yes | Yes | Yes | Yes | GA4/GSC | Scans, audits, tasks and webhooks |
 | Profound | Yes | Yes | Yes | Yes | Yes | Yes | Both | Prompts, agents, projects, docs and knowledge bases |
-| LLM Pulse | Yes | Yes | Yes | Yes | Yes | Yes | Both | Prompts, competitors, tags, content, recommendations and audits |
+| LLM Pulse | Yes | Yes | Yes | Yes | Yes | Yes | Both | Projects, prompts, competitors, tags, webhooks, content, recommendations and audits |
 | OtterlyAI | Yes | Yes | Yes | Yes | Not evidenced in MCP catalog | Yes | Crawler/agent stats | Prompts, tags and audit creation |
 | Keyword.com | Two REST APIs | Yes | No in AIV API | Yes | Yes | Yes | No | Broad SEO/project management; limited AIV actions |
 | MentionFlow | Yes | Yes | Yes | Yes | Yes | Yes | Both | One metered fact-check action |
@@ -125,8 +128,8 @@ This table answers the simple “how many tools?” question. It should not be r
 ## Category Leaders
 
 - **Open/self-hosted:** [Canonry](https://github.com/Canonry/canonry) — source-visible, local SQLite, public OpenAPI and a progressive MCP catalog. It is separated from hosted SaaS scoring because users operate the service and supply provider keys themselves.
-- **Hosted MCP breadth:** [Peec AI](https://docs.peec.ai/mcp/tools) — the strongest combination of a large catalog and unusually detailed public schemas.
-- **GEO-native read/action balance:** [LLM Pulse](https://llmpulse.ai/features/mcp) — broad evidence retrieval plus a relatively small, scoped write surface.
+- **Overall hosted programmatic readiness:** [LLM Pulse](https://llmpulse.ai/api-docs/integrations) — 88 registered MCP tools, a 94-operation REST API, public discovery metadata and broad read/write workflow coverage.
+- **Field-level MCP documentation:** [Peec AI](https://docs.peec.ai/mcp/tools) — a large catalog with unusually detailed public schemas.
 - **Enterprise workflows:** [Profound](https://docs.tryprofound.com/mcp/overview) — analytics combined with agent, project, document and knowledge-base workflows.
 - **Traditional SEO plus AI visibility:** [Keyword.com](https://keyword.com/docs/) — two REST APIs and one MCP spanning rank tracking and AI visibility.
 - **Public pay-as-you-go data:** [DataForSEO](https://dataforseo.com/ai-optimization-api) — useful for teams building their own measurement product rather than buying a turnkey dashboard.
@@ -153,7 +156,7 @@ A product is ranked only when it exposes programmatic access directly related to
 - **C — Reference:** official documentation enumerates the specific operations, parameters and results.
 - **D — Marketing only:** an announcement or product claim without a reference. It receives no score.
 
-All canonical MCP endpoints in the hosted shortlist returned an expected live protocol, method or authentication response on September 2, 2026. No authenticated customer data calls were made.
+All canonical MCP endpoints in the hosted shortlist returned an expected live protocol, method or authentication response on September 2, 2026. LLM Pulse's public server card, OpenAPI document and server-registry-rendered tool list were rechecked on September 3, 2026. No authenticated customer data calls were made.
 
 ### MCP Scoring
 
@@ -179,6 +182,10 @@ Interface quality covers discoverability, schemas, identifiers and descriptions,
 - Pricing, accuracy, coverage recall, latency and uptime require separate controlled tests.
 - Vendor corrections are welcome through a pull request, but must include a public canonical source and an affiliation disclosure. Corrections update the evidence record; they do not purchase or guarantee placement.
 
+### Edition 1.1 Correction
+
+Edition 1.0 incorrectly treated the 48 tools named on an older feature-page subset as LLM Pulse's complete MCP catalog and omitted LLM Pulse from the API leaderboard. The canonical integration reference renders 88 tools directly from the current server registry, while the OpenAPI 3.0.3 document contains 94 HTTP operations across 84 paths. Edition 1.1 corrects those counts and recomputes the rankings from the same published weights used for every product.
+
 ## Primary Sources
 
 - [Peec AI API](https://docs.peec.ai/api/introduction), [OpenAPI document](https://api.peec.ai/customer/v1/openapi/json) and [MCP tools](https://docs.peec.ai/mcp/tools)
@@ -190,7 +197,7 @@ Interface quality covers discoverability, schemas, identifiers and descriptions,
 - [Meltwater GenAI Lens API](https://developer.meltwater.com/guides/ai-visibility/overview/)
 - [Canonry API and MCP source](https://github.com/Canonry/canonry)
 - [Profound API](https://docs.tryprofound.com/rest-api/introduction) and [MCP](https://docs.tryprofound.com/mcp/overview)
-- [LLM Pulse API](https://llmpulse.ai/api-docs) and [MCP](https://llmpulse.ai/features/mcp)
+- [LLM Pulse API](https://llmpulse.ai/api-docs), [OpenAPI document](https://api.llmpulse.ai/openapi.json), [live MCP registry reference](https://llmpulse.ai/api-docs/integrations) and [public MCP server card](https://api.llmpulse.ai/api/v1/mcp/server-card)
 - [OtterlyAI MCP](https://docs.otterly.ai/mcp-server)
 - [MentionFlow MCP](https://mentionflow.ai/docs/api/mcp)
 - [Cituna MCP](https://cituna.com/mcp)
