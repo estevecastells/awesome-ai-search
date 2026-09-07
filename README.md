@@ -95,7 +95,7 @@ No-cost utilities and open-source projects with a directly testable AI-search us
 
 - [Ahrefs AI Visibility Checker](https://ahrefs.com/ai-visibility-checker) - Free snapshot of brand visibility across selected AI assistants.
 - [AI Search Grader](https://www.hubspot.com/ai-search-grader) - HubSpot audit of brand presence in AI search.
-- [AI Visibility Checker](https://ai-visibility.lastminutedeals.workers.dev) - Free check of whether AI search crawlers can reach a site, whether the homepage is readable without JavaScript, and whether it has an llms.txt.
+- [AI Visibility Checker](https://ai-visibility.lastminutedealshq.com) - Free check of whether AI search crawlers can reach a site, whether the homepage is readable without JavaScript, and whether it has an llms.txt.
 - [Am I on AI?](https://amionai.com/) - Quick check of whether ChatGPT recommends a business.
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how selected AI models answer questions about a brand.
 - [LLM Pulse Free AI Search Tools](https://llmpulse.ai/free-ai-search-tools) - AEO readiness, brand-mention, visibility, crawler and `llms.txt` utilities.
