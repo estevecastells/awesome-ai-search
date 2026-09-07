@@ -95,6 +95,7 @@ No-cost utilities and open-source projects with a directly testable AI-search us
 
 - [Ahrefs AI Visibility Checker](https://ahrefs.com/ai-visibility-checker) - Free snapshot of brand visibility across selected AI assistants.
 - [AI Search Grader](https://www.hubspot.com/ai-search-grader) - HubSpot audit of brand presence in AI search.
+- [AI Visibility Checker](https://ai-visibility.lastminutedealshq.com) - Free check of whether AI search crawlers can reach a site, whether the homepage is readable without JavaScript, and whether it has an llms.txt.
 - [Am I on AI?](https://amionai.com/) - Quick check of whether ChatGPT recommends a business.
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how selected AI models answer questions about a brand.
 - [LLM Pulse Free AI Search Tools](https://llmpulse.ai/free-ai-search-tools) - AEO readiness, brand-mention, visibility, crawler and `llms.txt` utilities.
@@ -180,6 +181,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 ## Datasets and Benchmarks
 
+- [AI Crawler Census](https://github.com/SamHartleyFixes/ai-crawler-census) - robots.txt census of the top 5,000 sites measuring how many block each AI crawler, with a homepage rendering check and named examples, published under CC BY 4.0.
 - [China AI Visibility Benchmark 2026](https://github.com/David88666/china-ai-visibility-benchmark) - Aggregate results and a bilingual 42-question prompt panel across six Chinese assistants, published under CC BY 4.0.
 - [GEO-bench](https://github.com/GEO-optim/GEO) - Benchmark released with the original GEO paper.
 
