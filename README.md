@@ -99,6 +99,7 @@ No-cost utilities and open-source projects with a directly testable AI-search us
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how selected AI models answer questions about a brand.
 - [LLM Pulse Free AI Search Tools](https://llmpulse.ai/free-ai-search-tools) - AEO readiness, brand-mention, visibility, crawler and `llms.txt` utilities.
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) - MIT-licensed agent skills for SEO and GEO audits, including a citation-focused content optimizer.
+- [openllmrank](https://github.com/foodaka/openllmrank) - MIT-licensed CLI that runs a defined prompt list against the grounded OpenAI, Anthropic, Gemini, Perplexity and xAI APIs with your own keys and reports the prompts where a named competitor is cited and your brand is not.
 - [Otterly Free GEO Tools](https://otterly.ai/geo-tools) - Free AI-search visibility and crawler checks.
 
 ## Content Optimization and GEO Workflows
