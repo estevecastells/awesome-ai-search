@@ -197,8 +197,10 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 ### Industry Reports
 
+- [AI Crawler Statistics 2026](https://www.stackscan.com/blog/ai-crawler-statistics) - September 2026 census of AI crawler blocking across 151.6 million live websites, with published methodology; 6.9% of sites with a robots.txt block GPTBot, rising to 23.0% behind Cloudflare against 1.5% elsewhere.
 - [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Vendor-directory-derived censuses covering pricing, engine coverage, API and MCP availability, and published methodology.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Aggregate studies of how brands and sources appear across AI engines.
+- [llms.txt Statistics 2026](https://www.stackscan.com/blog/llms-txt-statistics) - September 2026 census of llms.txt adoption across 151.6 million live websites, with published methodology; 11.8% serve the file and 723,109 carry a directive that appears in no specification.
 
 ## Newsletters and Blogs
 
