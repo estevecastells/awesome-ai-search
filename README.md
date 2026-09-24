@@ -172,6 +172,7 @@ Documented programmatic access to AI-search visibility data. Listed alphabetical
 - [Profound API](https://docs.tryprofound.com/rest-api/introduction) - Programmatic access to answer-engine insights, raw prompt data and agent analytics.
 - [Profound MCP](https://docs.tryprofound.com/mcp/overview) - Hosted MCP for analytics, prompts, agents, projects, documents and knowledge bases.
 - [Rank Prompt API and MCP](https://rankprompt.com/docs/v1/) - Self-serve API and hosted MCP for scans, reports, citations, audits and webhooks.
+- [Screpy SEO API](https://screpy.com/feature/seo-api/) - Project-scoped REST API for stored AI visibility prompts, answers, brand mentions, citations and sources.
 - [Scrunch Developer Platform](https://developers.scrunch.com/) - REST API and MCP for visibility metrics, raw responses, configuration, signals and AI-agent traffic.
 
 ## API and MCP Benchmark
