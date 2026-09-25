@@ -96,6 +96,7 @@ No-cost utilities and open-source projects with a directly testable AI-search us
 - [Ahrefs AI Visibility Checker](https://ahrefs.com/ai-visibility-checker) - Free snapshot of brand visibility across selected AI assistants.
 - [AI Search Grader](https://www.hubspot.com/ai-search-grader) - HubSpot audit of brand presence in AI search.
 - [Am I on AI?](https://amionai.com/) - Quick check of whether ChatGPT recommends a business.
+- [E-GEO](https://github.com/mverab/eGEOagents) - MIT-licensed Python CLI and Claude Code skills that rewrite pages and generate JSON-LD for AI-search citation, including a command that turns a tracker's citation report into page rewrites.
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how selected AI models answer questions about a brand.
 - [LLM Pulse Free AI Search Tools](https://llmpulse.ai/free-ai-search-tools) - AEO readiness, brand-mention, visibility, crawler and `llms.txt` utilities.
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) - MIT-licensed agent skills for SEO and GEO audits, including a citation-focused content optimizer.
