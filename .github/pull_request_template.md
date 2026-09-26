@@ -13,6 +13,7 @@
 - Canonical project domain:
 - Ahrefs Domain Rating:
 - Checked on (YYYY-MM-DD):
+- Source: [Domain Rating by Ahrefs](https://ahrefs.com/)
 
 ## Affiliation
 

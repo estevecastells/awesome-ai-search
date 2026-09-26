@@ -10,7 +10,7 @@ Tools, open-source projects, first-party documentation, datasets and research di
 
 - The entry must have a working canonical URL and public evidence of usable functionality, such as documentation, pricing, a testable demo or an open-source repository.
 - The capability described must be directly relevant to AI search, GEO or AEO. Generic SEO, writing, analytics and marketing tools do not qualify without a documented AI-search workflow.
-- New third-party product and project entries must have an Ahrefs Domain Rating (DR) of at least 30 for the project's own canonical registrable domain at review time. Include the domain, DR and check date in the pull request. A shared platform's DR, such as GitHub, npm or arXiv, does not qualify; source-only projects without an independent domain require an explicit maintainer exception.
+- New third-party product and project entries must have an Ahrefs Domain Rating (DR) of at least 30 for the project's own canonical registrable domain at review time. Include the domain, DR, check date and `[Domain Rating by Ahrefs](https://ahrefs.com/)` attribution in the pull request. A shared platform's DR, such as GitHub, npm or arXiv, does not qualify; source-only projects without an independent domain require an explicit maintainer exception.
 - Descriptions must be verifiable from public documentation and avoid guarantees, rankings, unsupported metrics and marketing superlatives.
 - Open-source projects must have an explicit license, installation documentation and recent activity.
 - Vendor reports must state a publication date, sample size and methodology. They belong under Industry Reports, not Peer-Reviewed Research.
