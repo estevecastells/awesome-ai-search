@@ -68,6 +68,7 @@ Platforms that measure how AI engines mention and cite a brand, often with compe
 - [BrightEdge](https://www.brightedge.com/) - Enterprise SEO platform with AI search and AI Overviews tracking.
 - [Conductor](https://www.conductor.com/) - Enterprise organic marketing platform with AI-search visibility features.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization focused on content discoverability.
+- [Epovest](https://epovest.com/) - Prompt monitoring across ChatGPT, Claude, Gemini, Perplexity, Mistral and Grok, with every answer archived and dated alongside the sources it cited.
 - [Evertune](https://www.evertune.ai/) - Publisher-influence and model-output benchmarking through its AI Brand Index.
 - [Gauge](https://www.withgauge.com/) - Prompt monitoring with competitor comparisons and analytics integration.
 - [Geneo](https://geneo.app/) - Cross-platform monitoring with prompt history and citation logging.
@@ -165,6 +166,7 @@ Measure visits and conversions referred by AI assistants. First-party citation r
 Documented programmatic access to AI-search visibility data. Listed alphabetically.
 
 - [Canonry API and MCP](https://github.com/Canonry/canonry) - Open-source, self-hosted AEO monitoring and execution with a public OpenAPI surface and progressive MCP catalog.
+- [Epovest API and MCP](https://epovest.com/docs/api.md) - REST API and hosted MCP server covering trackers, surveys, raw answers, cited sources and the source atlas, with a public OpenAPI 3.1 description.
 - [Keyword.com Developer Platform](https://keyword.com/docs/) - Two REST APIs and an OAuth MCP spanning traditional rank tracking and AI visibility.
 - [LLM Pulse API](https://llmpulse.ai/api-docs) - A 94-operation REST API for visibility metrics, raw answers, citations, traffic, Search Console, reputation, studies, shopping, ads, projects and automation.
 - [LLM Pulse MCP](https://llmpulse.ai/api-docs/integrations) - An 88-tool registered MCP surface with OAuth, read/write scopes and per-plan tool filtering.
