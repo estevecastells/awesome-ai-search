@@ -185,6 +185,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 - [China AI Visibility Benchmark 2026](https://github.com/David88666/china-ai-visibility-benchmark) - Aggregate results and a bilingual 42-question prompt panel across six Chinese assistants, published under CC BY 4.0.
 - [GEO-bench](https://github.com/GEO-optim/GEO) - Benchmark released with the original GEO paper.
+- [Rankfor Open](https://github.com/Rankfor/rankfor-open) - MIT-licensed collectors, per-study datasets and analysis code behind repeated-query brand visibility studies across generative engines.
 
 ## Research and Evidence
 
@@ -196,7 +197,11 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 ### Preprints
 
+- [Demand-Side Measurement for Generative Engine Optimization](https://arxiv.org/abs/2608.30023) - Construction and validation of a million-persona, intent-annotated buyer corpus for demand-side GEO measurement, with a public 15,000-persona sample.
 - [SAGEO Arena](https://arxiv.org/abs/2602.12187) - Stage-level benchmark for evaluating search-augmented GEO systems.
+- [The Dice Roll Method](https://arxiv.org/abs/2609.04047) - Protocol for repeated-query auditing of LLM brand recommendations that sets iteration counts from generalizability-theory reliability and adds drift diagnostics, validated on three independently collected corpora.
+- [The Language of the Question Selects the Market](https://arxiv.org/abs/2608.30052) - Controlled 234-run audit finding that query language, separately from exit IP, decides whether a market's local suppliers appear in commercial recommendations.
+- [Who Owns the AI Recommendation?](https://arxiv.org/abs/2606.23057) - Multi-industry map of brand category ownership across three engines, built from 3,750 responses to 250 brand-free buying questions.
 
 ### Industry Reports
 
