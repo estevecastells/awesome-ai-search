@@ -170,6 +170,7 @@ Documented programmatic access to AI-search visibility data. Listed alphabetical
 - [Keyword.com Developer Platform](https://keyword.com/docs/) - Two REST APIs and an OAuth MCP spanning traditional rank tracking and AI visibility.
 - [LLM Pulse API](https://llmpulse.ai/api-docs) - A 94-operation REST API for visibility metrics, raw answers, citations, traffic, Search Console, reputation, studies, shopping, ads, projects and automation.
 - [LLM Pulse MCP](https://llmpulse.ai/api-docs/integrations) - An 88-tool registered MCP surface with OAuth, read/write scopes and per-plan tool filtering.
+- [MentionsAPI API and MCP](https://mentionsapi.com) - REST API and hosted MCP returning brand mentions, rank, sentiment and citations across ChatGPT, Claude, Gemini, Perplexity, Google AI Overviews, AI Mode and Bing Copilot, with a public OpenAPI 3.1 description.
 - [Peec AI API and MCP](https://docs.peec.ai/) - Public references for reports, raw answers, citations, fan-out queries, shopping, agent traffic and configuration.
 - [Profound API](https://docs.tryprofound.com/rest-api/introduction) - Programmatic access to answer-engine insights, raw prompt data and agent analytics.
 - [Profound MCP](https://docs.tryprofound.com/mcp/overview) - Hosted MCP for analytics, prompts, agents, projects, documents and knowledge bases.
