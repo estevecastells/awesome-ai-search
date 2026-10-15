@@ -183,6 +183,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 ## Datasets and Benchmarks
 
+- [AI Search Citations Dataset](https://github.com/Cited-io/ai-search-citations-dataset) - Monthly CSV and JSONL data on the sources ChatGPT, Google AI Overviews, Google AI Mode, Gemini, Microsoft Copilot and Claude listed for 23 prompts asked from the US on 2026-10-14 (138 answers, 1,001 listed URLs), with a published methodology, under CC BY 4.0.
 - [China AI Visibility Benchmark 2026](https://github.com/David88666/china-ai-visibility-benchmark) - Aggregate results and a bilingual 42-question prompt panel across six Chinese assistants, published under CC BY 4.0.
 - [GEO-bench](https://github.com/GEO-optim/GEO) - Benchmark released with the original GEO paper.
 
