@@ -185,6 +185,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 
 - [China AI Visibility Benchmark 2026](https://github.com/David88666/china-ai-visibility-benchmark) - Aggregate results and a bilingual 42-question prompt panel across six Chinese assistants, published under CC BY 4.0.
 - [GEO-bench](https://github.com/GEO-optim/GEO) - Benchmark released with the original GEO paper.
+- [IndicGEO Study 01](https://github.com/ifham001/IndicGEO) - Vendor-funded, India-focused dataset of 959 English and Hinglish shopping responses from ChatGPT, Gemini and Perplexity Sonar in two 2026 waves, with raw answers and rerun-baseline analysis.
 
 ## Research and Evidence
 
