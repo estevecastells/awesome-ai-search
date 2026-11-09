@@ -204,6 +204,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 - [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Vendor-directory-derived censuses covering pricing, engine coverage, API and MCP availability, and published methodology.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Aggregate studies of how brands and sources appear across AI engines.
 - [llms.txt Statistics 2026](https://www.stackscan.com/blog/llms-txt-statistics) - September 2026 census of llms.txt adoption across 151.6 million live websites, with published methodology; 11.8% serve the file and 723,109 carry a directive that appears in no specification.
+- [RankAgent AI Search Readiness Study](https://www.therankagent.com/blog/we-audited-226-websites-ai-search-readiness) - August 2026 audit of 226 small-business homepages run through a free audit tool between 4 June and 3 August 2026, with stated methodology and selection limits; headings averaged 54 out of 100 and 58% of sites skipped heading levels.
 
 ## Newsletters and Blogs
 
