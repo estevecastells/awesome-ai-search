@@ -204,6 +204,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 - [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Vendor-directory-derived censuses covering pricing, engine coverage, API and MCP availability, and published methodology.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Aggregate studies of how brands and sources appear across AI engines.
 - [llms.txt Statistics 2026](https://www.stackscan.com/blog/llms-txt-statistics) - September 2026 census of llms.txt adoption across 151.6 million live websites, with published methodology; 11.8% serve the file and 723,109 carry a directive that appears in no specification.
+- [Pineprompt AI Search Visibility Benchmark](https://pineprompt.com/research/ai-search-visibility-benchmark) - Two-week study (September 30 to October 13, 2026) of 18,792 answers to 200 US-English prompts across 7 AI engines, with published methodology and CC BY 4.0 data; of the brands named for a given prompt, 12.9% were named by every engine that answered it.
 
 ## Newsletters and Blogs
 
