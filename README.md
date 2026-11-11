@@ -204,6 +204,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 - [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Vendor-directory-derived censuses covering pricing, engine coverage, API and MCP availability, and published methodology.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Aggregate studies of how brands and sources appear across AI engines.
 - [llms.txt Statistics 2026](https://www.stackscan.com/blog/llms-txt-statistics) - September 2026 census of llms.txt adoption across 151.6 million live websites, with published methodology; 11.8% serve the file and 723,109 carry a directive that appears in no specification.
+- [Which AI crawlers do the top 10,000 websites block?](https://geoprompttracker.com/research/ai-crawler-robots-txt-study) - November 2026 robots.txt study of the Tranco top 10,000 (5,250 sites with a robots.txt) across 28 AI agents, with published methodology and CC-BY data; 16.3% block CCBot and 15.3% block GPTBot by name, while OAI-SearchBot is named by 11.3% but blocked by only 4.6%.
 
 ## Newsletters and Blogs
 
