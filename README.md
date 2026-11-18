@@ -68,6 +68,7 @@ Platforms that measure how AI engines mention and cite a brand, often with compe
 - [BrightEdge](https://www.brightedge.com/) - Enterprise SEO platform with AI search and AI Overviews tracking.
 - [Conductor](https://www.conductor.com/) - Enterprise organic marketing platform with AI-search visibility features.
 - [Daydream](https://www.withdaydream.com/) - AI visibility optimization focused on content discoverability.
+- [Elmo](https://www.elmohq.com/) - Open-source Profound alternative that tracks how ChatGPT, Claude, Perplexity, Gemini and Google AI Overviews mention and cite a brand, available self-hosted or as a managed cloud service.
 - [Epovest](https://epovest.com/) - Prompt monitoring across ChatGPT, Claude, Gemini, Perplexity, Mistral and Grok, with every answer archived and dated alongside the sources it cited.
 - [Evertune](https://www.evertune.ai/) - Publisher-influence and model-output benchmarking through its AI Brand Index.
 - [Gauge](https://www.withgauge.com/) - Prompt monitoring with competitor comparisons and analytics integration.
