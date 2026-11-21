@@ -204,6 +204,7 @@ The [AI Search API and MCP Benchmark](benchmarks/api-mcp-benchmark.md) compares 
 - [CitedIndex Reports & Data](https://citedindex.com/blog/reports/) - Vendor-directory-derived censuses covering pricing, engine coverage, API and MCP availability, and published methodology.
 - [LLM Pulse Data Studies](https://llmpulse.ai/data-studies) - Aggregate studies of how brands and sources appear across AI engines.
 - [llms.txt Statistics 2026](https://www.stackscan.com/blog/llms-txt-statistics) - September 2026 census of llms.txt adoption across 151.6 million live websites, with published methodology; 11.8% serve the file and 723,109 carry a directive that appears in no specification.
+- [Who AI Recommends: Dallas-Fort Worth 2026](https://renownly.org/resources/who-ai-recommends-dfw-2026) - November 2026 vendor study of 168 ChatGPT and Google AI searches for local businesses across 12 industries and 14 DFW cities, compared with Google Maps ratings, with a CC BY 4.0 dataset.
 
 ## Newsletters and Blogs
 
