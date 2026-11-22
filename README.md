@@ -99,6 +99,7 @@ No-cost utilities and open-source projects with a directly testable AI-search us
 - [Am I on AI?](https://amionai.com/) - Quick check of whether ChatGPT recommends a business.
 - [Knowatoa AI Visibility Scan](https://knowatoa.com/) - One-click scan of how selected AI models answer questions about a brand.
 - [LLM Pulse Free AI Search Tools](https://llmpulse.ai/free-ai-search-tools) - AEO readiness, brand-mention, visibility, crawler and `llms.txt` utilities.
+- [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Checks robots.txt, page directives and labeled live responses for OpenAI and Anthropic crawlers, separating search, retrieval and training use.
 - [NotFair](https://github.com/nowork-studio/notfair-plugin) - MIT-licensed agent skills for SEO and GEO audits, including a citation-focused content optimizer.
 - [Otterly Free GEO Tools](https://otterly.ai/geo-tools) - Free AI-search visibility and crawler checks.
 
