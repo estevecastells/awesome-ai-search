@@ -74,6 +74,7 @@ Platforms that measure how AI engines mention and cite a brand, often with compe
 - [Geneo](https://geneo.app/) - Cross-platform monitoring with prompt history and citation logging.
 - [Goodie AI](https://higoodie.com/) - GEO monitoring, analysis and optimization workflows.
 - [Knowatoa](https://knowatoa.com/) - Brand-mention tracking across ChatGPT, Claude and Perplexity with competitor comparisons.
+- [Lanesra AI](https://lanesra.ai): GEO/AEO analytics and optimization for AI search, including AX (Agentic Experience).
 - [LLM Pulse](https://llmpulse.ai) - Tracks brand visibility, citations, sentiment, share of voice and AI-referred traffic across major answer engines.
 - [LLMrefs](https://llmrefs.com/) - Keyword-based AI visibility and brand tracking.
 - [Otterly.AI](https://otterly.ai/) - Brand-mention and citation monitoring across AI-search surfaces.
